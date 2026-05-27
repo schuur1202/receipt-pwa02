@@ -30,7 +30,7 @@ Google Gemini APIを使ったレシート読み取りアプリです。
 2. Source を「GitHub Actions」に変更
 3. 1〜2分でデプロイ完了
 
-アクセスURL: `https://ユーザー名.github.io/receipt-pwa/`
+アクセスURL: `https://ユーザー名.github.io/receipt-pwa02/`
 
 ---
 
